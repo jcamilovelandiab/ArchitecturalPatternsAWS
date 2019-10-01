@@ -8,7 +8,7 @@ Vamos a:
 3. Enlazar el formulario a una base de datos relacional o no-relacional, para almacenar y traer los datos almacenados. Use servicios de base de datos de AWS.
 4. Configurar un VPC para gestionar la seguridad y los permisos de acceso a sus servidores.
 
-- Mire el siguiente tutorial ![]()
+- Mire el siguiente tutorial [EC2, MySql en AWS](https://www.youtube.com/watch?v=QzbjZ304Ff4&feature=youtu.be)
 - Repositorio del proyecto SparkWebApp -> [SparkWebApp](https://github.com/jcamilovelandiab/SparkWebAppMySQL-AWS)
 
 
