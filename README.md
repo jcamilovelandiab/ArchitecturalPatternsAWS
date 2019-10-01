@@ -4,9 +4,11 @@ Vamos a:
 1. Desplegar un sitio estático usando S3.
 Mire el siguiente tutorial. [Desplegar un sitio web Stático en AWS usando S3](https://www.youtube.com/watch?v=f325oL9Zunw)
 
-Mire el siguiente tutorial ![]()
-Repositorio del proyecto SparkWebApp -> [SparkWebApp](https://github.com/jcamilovelandiab/SparkWebAppMySQL-AWS)
-
 2. Desplegar un formulario dinámico usando EC2
 3. Enlazar el formulario a una base de datos relacional o no-relacional, para almacenar y traer los datos almacenados. Use servicios de base de datos de AWS.
 4. Configurar un VPC para gestionar la seguridad y los permisos de acceso a sus servidores.
+
+- Mire el siguiente tutorial ![]()
+- Repositorio del proyecto SparkWebApp -> [SparkWebApp](https://github.com/jcamilovelandiab/SparkWebAppMySQL-AWS)
+
+
