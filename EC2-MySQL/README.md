@@ -157,35 +157,36 @@ e. Después de compilar vemos lo siguiente en la terminal.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql41.PNG)
 
-f.
+f. Luego corremos el método main en la clase SparkWebApp.java
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql43.PNG)
 
-g.
+g. Vemos que ya está corriendo el proyecto y está escuchando a través del puerto 4567
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql44.PNG)
 
-h.
+h. Abrimos el navegador y vamos a localhost:4567/users, y podemos observar los usuarios que existen en la base de datos.
+En la tabla observamos el usuario que creamos desde DBeaver.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql45.PNG)
 
-i.
+i. Llenamos el formulario.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql46.PNG)
 
-j.
+j. Damos click en en el botón Submit
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql47.PNG)
 
-k.
+k.  Vemos que se registró correctamente la información. Luego damos click al link "Click to all users"
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql48.PNG)
 
-l.
+l. En la tabla observamos el usuario que acabamos de crear.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql49.PNG)
 
-m.
+m. Revisamos en DBeaver la tabla de usuarios y observamos que se pudo registrar correctamente.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql50.PNG)
 
