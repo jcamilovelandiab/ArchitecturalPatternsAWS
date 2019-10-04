@@ -129,6 +129,6 @@ i. Luego de crearla damos click sobre el siguiente hiperlink.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql35.PNG)
 
-j. Esperamos a que la máquina virtual inicie, y luego de iniciar podemos ver que está corriendo.
+j. Esperamos a que la máquina virtual inicie, y luego podemos ver que está corriendo.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql36.PNG)
