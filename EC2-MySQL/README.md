@@ -90,3 +90,45 @@ g. Una vez creada la tabla ingresamos información a la tabla.
 
 h. Damos click derecho sobre la tabla y luego click sobre refresh, en data podemos ver la información que contiene la tabla.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql26.PNG)
+
+### 4. Creando máquina virtual en Linux.
+
+a.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql27.PNG)
+
+b.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql28.PNG)
+
+c.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql29.PNG)
+
+d.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql30.PNG)
+
+e.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql31.PNG)
+
+f.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql32.PNG)
+
+g.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql33.PNG)
+
+h.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql34.PNG)
+
+i.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql35.PNG)
+
+j.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql36.PNG)
