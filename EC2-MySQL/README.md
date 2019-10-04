@@ -66,26 +66,26 @@ k. Acá podemos ver las propiedades de la base de datos MySQL creada.
 
 En éste caso elegí DBeaver para poder conectarme con la base de datos. Se puede probar con cualquier otra herramienta.
 
-a.
+a. Abrimos DBeaver y damos click en crear nueva conexión.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql19.PNG)
 
-b.
+b. Seleccionamos el motor SQL. MySQL.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql20.PNG)
 
-c.
+c. Con las propiedades de la base de datos que vimos anteriormente llenamos los siguientes campos, y luego probamos la conexión con el botón Test Conection, y luego le damos finish.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql21.PNG)
 
-d.
+d. Nos conectamos!!
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql22.PNG)
 
-e.
+e. Ingresamos a la base de datos
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql23.PNG)
 
-f.
+f. Añadimos un nuevo SQL editor y creamos una tabla llamada users.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql24.PNG)
 
-g.
+g. Una vez creada la tabla ingresamos información a la tabla.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql25.PNG)
 
-h.
+h. Damos click derecho sobre la tabla y luego click sobre refresh, en data podemos ver la información que contiene la tabla.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql26.PNG)
