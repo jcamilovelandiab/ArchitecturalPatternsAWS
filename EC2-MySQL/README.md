@@ -95,7 +95,7 @@ h. Damos click derecho sobre la tabla y luego click sobre refresh, en data podem
 
 a.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql27.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql27.png)
 
 b.
 <br />
