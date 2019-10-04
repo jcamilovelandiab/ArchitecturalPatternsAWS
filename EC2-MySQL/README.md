@@ -145,7 +145,7 @@ b. Lo abrimos con algún editor, en este caso yo utilicé Visual Studio Code.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql38.PNG)
 
-c. Vamos en UserServices. Esta clase es el que realiza la conexión a la base de datos, reemplazamos todas las lineas connect con las propiedades de la base de datos que creamos. Luego de reemplazar todas las lineas guardamos los archivos.
+c. Vamos a UserServices. Esta clase es la que realiza la conexión a la base de datos, reemplazamos todas las lineas connect con las propiedades de la base de datos que creamos. Luego de reemplazar todas las lineas guardamos los archivos.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql39.PNG)
 
@@ -174,7 +174,7 @@ i. Llenamos el formulario.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql46.PNG)
 
-j. Damos click en en el botón Submit
+j. Damos click en en el botón Submit.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql47.PNG)
 
