@@ -69,7 +69,8 @@ En éste caso elegí DBeaver para poder conectarme con la base de datos. Se pued
 a. Abrimos DBeaver y damos click en crear nueva conexión.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql19.PNG)
 
-b. Seleccionamos el motor SQL. MySQL.
+b. Seleccionamos el motor SQL, MySQL.
+<br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql20.PNG)
 
 c. Con las propiedades de la base de datos que vimos anteriormente llenamos los siguientes campos, y luego probamos la conexión con el botón Test Conection, y luego le damos finish.
