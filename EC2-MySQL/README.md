@@ -61,3 +61,31 @@ j. Luego de que la base de datos esté disponible, damos click sobre la base de 
 
 k. Acá podemos ver las propiedades de la base de datos MySQL creada.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql18.PNG)
+
+### 3. Probando la base de datos con DBeaver.
+
+En éste caso elegí DBeaver para poder conectarme con la base de datos. Se puede probar con cualquier otra herramienta.
+
+a.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql19.PNG)
+
+b.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql20.PNG)
+
+c.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql21.PNG)
+
+d.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql22.PNG)
+
+e.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql23.PNG)
+
+f.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql24.PNG)
+
+g.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql25.PNG)
+
+h.
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql26.PNG)
