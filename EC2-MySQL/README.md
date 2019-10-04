@@ -137,59 +137,55 @@ j. Esperamos a que la máquina virtual inicie, y luego podemos ver que está cor
 
 En éste caso utilicé Spark framework para poder interceptar solicitudes http. Voy a probar el proyecto que yo mismo realicé.
 
-a.
+a. Vamos a la línea de comandos y clonamos el proyecto.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql37.PNG)
 
-b.
+b. Lo abrimos con algún editor, en este caso yo utilicé Visual Studio Code.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql38.PNG)
 
-c.
+c. Vamos en UserServices. Esta clase es el que realiza la conexión a la base de datos, reemplazamos todas las lineas connect con las propiedades de la base de datos que creamos. Luego de reemplazar todas las lineas guardamos los archivos.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql39.PNG)
 
-d.
+d. Compilamos el proyecto.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql40.PNG)
 
-e.
+e. Después de compilar vemos lo siguiente en la terminal.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql41.PNG)
 
 f.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql42.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql43.PNG)
 
 g.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql43.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql44.PNG)
 
 h.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql44.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql45.PNG)
 
 i.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql45.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql46.PNG)
 
 j.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql46.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql47.PNG)
 
 k.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql47.PNG)
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql48.PNG)
 
 l.
 <br />
-![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql48.PNG)
-
-m.
-<br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql49.PNG)
 
-n.
+m.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql50.PNG)
 
