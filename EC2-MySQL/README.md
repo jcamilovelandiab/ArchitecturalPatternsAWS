@@ -38,26 +38,26 @@ c. Seleccionamos las siguientes opciones.
 
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql10.PNG)
 
-e.
+d. Ingresamos el nombre de la base de datos, e ingresamos el usuario y la contraseña
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql11.PNG)
 
-f.
+e. Seleccionamos las siguientes opciones.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql12.PNG)
 
-g.
+f. En conectividad seleccionamos el VPC por defecto, la opción SI en publicamente accesible para que un futuro podamos conectar nuestra máquina virtual linux con la base de datos.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql13.PNG)
 
-h.
+g. En security group seleccionamos el que creamos anteriormente y el que viene por defecto
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql14.PNG)
 
-i.
+h. En configuración adicional ponemos el nombre de la base de datos que va a tener inicialmente.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql15.png)
 
-j.
+i. Damos click en "create database", y esperamos que inicie la base de datos, esto tarda normalmente unos minutos.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql16.PNG)
 
-k.
+j. Luego de que la base de datos esté disponible, damos click sobre la base de datos que creamos.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql17.PNG)
 
-l.
+k. Acá podemos ver las propiedades de la base de datos MySQL creada.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql18.PNG)
