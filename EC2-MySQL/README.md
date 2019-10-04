@@ -93,42 +93,42 @@ h. Damos click derecho sobre la tabla y luego click sobre refresh, en data podem
 
 ### 4. Creando máquina virtual en Linux.
 
-a.
+a. En buscar servicios buscamos EC2 en la consola de AWS.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql27.png)
 
-b.
+b. Para crear una instancia de una máquina virtual damos click en "Launch Instance"
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql28.PNG)
 
-c.
+c. Seleccionamos la siguiente imagen para la máquina virtual.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql29.PNG)
 
-d.
+d. Damos click en Next configure instance details.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql30.PNG)
 
-e.
+e. Vamos a la ventana de Configure Security Groups y creamos un nuevo security groups, luego damos click en "Review and Lunch"
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql31.PNG)
 
-f.
+f. Luego, damos click en el botón "Lunch"
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql32.PNG)
 
-g.
+g. Creamos un nuevo par de llaves, le ponemos un nombre, y la descargamos. Es importante guardar ésta llave porque en un futuro nos vamos a conectar a la máquina virtual linux a través de SSH desde nuestro computador, si no tenemos la llave, no nos podremos conectar a la máquina virtual.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql33.PNG)
 
-h.
+h. Luego de guardarla, damos click sobre el botón "Launch Instances"
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql34.PNG)
 
-i.
+i. Luego de crearla damos click sobre el siguiente hiperlink.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql35.PNG)
 
-j.
+j. Esperamos a que la máquina virtual inicie, y luego de iniciar podemos ver que está corriendo.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql36.PNG)
