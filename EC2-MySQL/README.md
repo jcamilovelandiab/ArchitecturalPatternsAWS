@@ -2,7 +2,7 @@
 
 Repositorio con el código fuente: [SparkWebApp](https://github.com/jcamilovelandiab/SparkWebAppMySQL-AWS)
 
-### 1. Crear un security group
+### 1. Crear un security group para la base de datos MySQL
 
 a. Entramos en la consola de AWS, y en buscar servicios buscamos VPC, damos click en él.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql1.png)
@@ -13,29 +13,29 @@ b. Luego, en la parte izquierda de la página buscamos Security groups y damos c
 c. Damos click en el botón "Create Security Group"
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql3.png)
 
-d.
+d. Le asignamos un nombr y una descripción, y dejamos el vpc por defecto. Luego, damos click en "create"
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql4.PNG)
 
-e.
+e. Una vez creado el security group, seleccionamos el security group creado y le damos click en "Inbound rules" y luego "Edit rules"
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql5.png)
 
-f.
+f. En tipo seleccionamos MYSQL/Aurora y en source seleccionamos "Anywhere" para que en un futuro podamos acceder a la base de datos.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql6.PNG)
 
 
 
-### 2. Creando base de datos
+### 2. Creando base de datos MySQL
 
-a.
+a. En buscar servicios ingresamos RDS, y seleccionamos el servicio.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql7.png)
 
-b.
+b. Damos click en "create database"
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql8.png)
 
-c.
+c. Seleccionamos las siguientes opciones.
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql9.PNG)
 
-d.
+
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql10.PNG)
 
 e.
