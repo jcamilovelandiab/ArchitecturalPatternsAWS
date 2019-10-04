@@ -132,3 +132,65 @@ i. Luego de crearla damos click sobre el siguiente hiperlink.
 j. Esperamos a que la máquina virtual inicie, y luego podemos ver que está corriendo.
 <br />
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql36.PNG)
+
+### 5. Probando la aplicación Spark, y conectandola a la base de datos MySQL.
+
+En éste caso utilicé Spark framework para poder interceptar solicitudes http. Voy a probar el proyecto que yo mismo realicé.
+
+a.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql37.PNG)
+
+b.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql38.PNG)
+
+c.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql39.PNG)
+
+d.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql40.PNG)
+
+e.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql41.PNG)
+
+f.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql42.PNG)
+
+g.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql43.PNG)
+
+h.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql44.PNG)
+
+i.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql45.PNG)
+
+j.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql46.PNG)
+
+k.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql47.PNG)
+
+l.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql48.PNG)
+
+m.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql49.PNG)
+
+n.
+<br />
+![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql50.PNG)
+
+
