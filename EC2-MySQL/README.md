@@ -191,3 +191,4 @@ m. Revisamos en DBeaver la tabla de usuarios y observamos que se pudo registrar 
 ![](https://github.com/jcamilovelandiab/ArchitecturalPatternsAWS/blob/master/EC2-MySQL/images/ec2-mysql50.PNG)
 
 
+
